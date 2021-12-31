@@ -1,2 +1,2 @@
 # VisualG
- Aprendendo lógica de programação
+ **Aprendendo lógica de programação**
